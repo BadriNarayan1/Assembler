@@ -96,7 +96,7 @@ val: .word 5 10
 - Total cycles, Instructions executed, CPI
 -  ALU / Load-Store / Control instructions
 -  Hazards, # Stalls, # Mispredictions
-
+![](assets/4_.gif)
 
 ##  Test Cases
 
